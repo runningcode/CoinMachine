@@ -3,6 +3,12 @@ CoinMachine
 
 A USD Coin to BTC converter.
 
+Hardware Components
+===================
+
+* Coin Acceptor: http://www.adafruit.com/products/787
+* Thermal Printer: http://www.adafruit.com/products/597
+
 Code Components:
 ================
 
